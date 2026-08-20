@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b132b"/>
+  <circle cx="256" cy="256" r="150" fill="white"/>
+  <path d="M256 120l55 40-21 65h-68l-21-65z" fill="#0b132b"/>
+  <path d="M201 225l-55 40 21 66 68 20 21-56-34-70z" fill="#0b132b"/>
+  <path d="M311 225l55 40-21 66-68 20-21-56 34-70z" fill="#0b132b"/>
+  <text x="256" y="420" text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="42" font-weight="bold"
+        fill="white">SE AI</text>
+</svg>
