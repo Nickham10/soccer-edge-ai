@@ -1,0 +1,18 @@
+{
+  "name": "Soccer Edge AI",
+  "short_name": "Soccer Edge",
+  "description": "Soccer odds and probability analysis to help identify potential betting opportunities.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b132b",
+  "theme_color": "#0b132b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
